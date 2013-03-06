@@ -1,0 +1,10 @@
+
+$ sudo bundle install -V
+
+
+
+References:
+
+http://stackoverflow.com/questions/1706120/sinatra-bundler
+http://blog.chrisblunt.com/lightweight-web-apps-getting-started-with-sinatra/
+http://spitfiresky.com/blog/getting-started-with-sinatra.html
